@@ -60,7 +60,7 @@ class CIFAR10Dataset(Dataset):
 
 if __name__ == '__main__':
     # pass
-    cifar数据集下载
+    # cifar数据集下载
     datasetDownload()
 
     # cifar数据集加载测试
