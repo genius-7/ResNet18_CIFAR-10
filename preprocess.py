@@ -59,9 +59,9 @@ class CIFAR10Dataset(Dataset):
 
 
 if __name__ == '__main__':
-    pass
-    # cifar数据集下载
-    # datasetDownload()
+    # pass
+    cifar数据集下载
+    datasetDownload()
 
     # cifar数据集加载测试
     # imgsBatch, labelsBatch = loadCifar10Batch(folderPath='./data/cifar-10-batches-py',
